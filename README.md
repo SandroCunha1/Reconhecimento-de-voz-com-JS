@@ -1,0 +1,1 @@
+# Quarto - Reconhecimento de voz
