@@ -11,4 +11,3 @@ elementoMaior.innerHTML = maiorValor
 function gerarNumero(){
   return parseInt(Math.random() * maiorValor + 1); 
 }
-console.log(numeroAleatorio);
