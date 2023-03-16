@@ -36,3 +36,30 @@ h3{
     padding: 5px;
     margin-bottom: 10px;
 }
+.erro{
+    color: rgb(138, 7, 7);
+    font-weight: bold;
+    font-size: 1em;
+    text-decoration: underline;
+}
+.acerto{
+    color: rgb(37, 121, 24);
+    font-weight: bold;
+
+  }
+  .smaller{
+    font-size: 1em;
+  }
+  .jogar-novamente{
+    padding: 10px;
+    border: 0px;
+    background-color: var(--primary-color);
+    color: var(--bg-color);
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  .jogar-novamente:hover{
+    transform: scale(1.1);
+  }
